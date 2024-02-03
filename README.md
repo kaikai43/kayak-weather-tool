@@ -13,4 +13,4 @@ Recommendations and suggestions are welcomed! Please do so via the "Issues" tab 
 
 ![Landing Page Screenshot](./landing-page-screenshot.png)
 
-![Landing Page Screenshot with Weather Info](./landing-page-screenshot-with-weather-info.png)
+![Landing Page Screenshot with Weather Info](./landing-page-screenshot-weather-info.png)
